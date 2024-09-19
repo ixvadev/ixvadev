@@ -1,8 +1,7 @@
 # Hi there, I'm <a href="">Nodirbek Khumaov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
 
 ## 👨‍💻 About Me:
-- 🎓 Education: <a href="https://itcityacademy.uz/" target="_blank">IT City Academy</a>.
-
+- 🎓 Education: <a href="https://itcityacademy.uz/" target="_blank">IT City Academy</a>
 ## 📫 How to contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ixvadev)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ixvadev/)
